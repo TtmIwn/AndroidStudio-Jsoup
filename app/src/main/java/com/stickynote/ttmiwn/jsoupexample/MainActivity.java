@@ -35,7 +35,10 @@ public class MainActivity extends AppCompatActivity {
         buttonStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                
+         
+  
+                   // asyn 書き換え
+              
 //                asyncWork = new AsyncWork();
 //                asyncWork.execute();
 //                textView.setText(webValues);
